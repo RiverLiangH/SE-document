@@ -1,7 +1,7 @@
 # Teaching Management System
 Our project decomposed front end and back end. As for front end, we use vue framework; and back end: springboot.
 
-- Front end project address: ![img](file:///C:\Users\哦哦\AppData\Roaming\Tencent\QQTempSys\[5UQ[BL(6~BS2JV6W}N6[%S.png)https://toscode.gitee.com/giantgot/se-frontend
+- Front end project address: https://toscode.gitee.com/giantgot/se-frontend
 - Back end project address: [RiverLiangH/se-proj-rear-end (github.com)](https://github.com/RiverLiangH/se-proj-rear-end)
 
 
